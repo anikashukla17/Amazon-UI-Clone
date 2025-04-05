@@ -19,8 +19,11 @@ This project is a front-end clone of the Amazon India homepage, built using pure
 - CSS3
 - Google Fonts
 - Font Awesome Icons (optional)
+  
+## Author
 
-Inspired by Amazon. Coded from scratch by me using only HTML & CSS.
-Made by Anika Shukla
+> ✍️ Made with ❤️ by Anika Shukla
+> Inspired by *Amazon*. Coded from scratch by me using only HTML & CSS. 
+---
 
 
